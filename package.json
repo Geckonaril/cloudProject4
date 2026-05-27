@@ -1,0 +1,12 @@
+{
+  "name": "ecommerce-auto-scaling",
+  "version": "1.0.0",
+  "description": "E-commerce backend for AWS Auto Scaling demonstration",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
